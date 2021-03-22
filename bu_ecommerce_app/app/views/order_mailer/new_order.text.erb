@@ -1,0 +1,14 @@
+
+Hi <%= @user.first_name%>,
+
+Your order has been placed<%= @order.id %> 
+"<%= @products.name %>"
+
+The amount is:
+"<%= @order.amount%>"
+
+Find you order details at: <%= api_v1_order_url(@order.id) %>
+
+Cheers,
+
+BM Team

@@ -1,0 +1,11 @@
+<h2>Hi, <%= @user.first_name %></h2>
+
+<p>Your order has been placed with order id<%= @order.id %> 
+
+<p>Total Amount is <%= @order.amount %>
+Find you order details at:  http://localhost:5500/api/v1/orders/<%=@order.id %>
+</p>
+<p>
+    Cheers,
+    BM Team
+</p>

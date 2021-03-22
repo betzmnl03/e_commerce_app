@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>BmEcommerceApp</title>
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <%= csrf_meta_tags %>
+    <%= csp_meta_tag %>
+
+    <script src="https://js.stripe.com/v3/"></script>
+    <%= stylesheet_link_tag 'application', media: 'all' %>
+    <%= javascript_pack_tag 'application' %>
+    <script type="text/javascript" src="https://js.stripe.com/v2/"></script>
+    <meta name="stripe-pk" content="<%= Rails.application.secrets.stripe_publishable_key %>">
+  </head>
+
+  <body>
+    <%= yield %>
+  </body>
+</html>
