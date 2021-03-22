@@ -1,2 +1,0 @@
-web: PORT=5500 yarn --cwd bu_ecommerce_app_react start
-api: PORT=3000 bundle exec rails s
