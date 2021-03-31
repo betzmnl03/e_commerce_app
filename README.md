@@ -38,6 +38,10 @@ This application is for retailer to sell their product online. Users can shop fo
 - Sort Items
 - Search for Items
 
+## Screenshots: 
+
+-Home Page: 
+https://github.com/betzmnl03/e_commerce_app/issues/1
 
 
 
