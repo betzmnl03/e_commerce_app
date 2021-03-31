@@ -41,7 +41,8 @@ This application is for retailer to sell their product online. Users can shop fo
 ## Screenshots: 
 
 -Home Page: 
-https://github.com/betzmnl03/e_commerce_app/issues/1
+
+![image](https://user-images.githubusercontent.com/70501653/113217884-6a56e880-9233-11eb-9abe-a772a686bbbf.png)
 
 
 
