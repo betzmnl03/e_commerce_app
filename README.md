@@ -1,9 +1,9 @@
-#                                 B/U - Online CLothing Store 
+#                                 B/U - Online Clothing Store 
 
 
 ## Table of Contents
 - Summary
-- Techgnology Used
+- Techgnologies Used
 - Features
 - Screenshots
 - Installation
@@ -11,7 +11,7 @@
 ## Summary
 This application is for retailer to sell their product online. Users can shop for clothes from different categories and subcategories, add to cart, add to wishlist, make payments and find nearby store.
 
-## Technology Used:
+## Technologies Used:
 
 - Ruby on Rails API
 - React
@@ -31,12 +31,12 @@ This application is for retailer to sell their product online. Users can shop fo
 - Add item to wishlist
 - Add item to cart
 - Product Image Maginifer 
-- Place order
+- Place order with customized checkout form built with Semantic UI-Step component, integrated with Stripe API
 - View Order History
 - Recieve Order Confirmation Email if order is placed
 - Add Review
 - View Similar Products
-- Locate Stores based on location
+- Locate Stores based on location using Google Maps API
 - Filter Items
 - Sort Items
 - Search for Items
