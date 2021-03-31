@@ -1,5 +1,7 @@
 #                                 B/U - Online Clothing Store 
 
+Demo: https://drive.google.com/file/d/1njLc8-ExlhZWBbYa0zqS3L0kegu6TLV7/view?usp=sharing    <- Click here to watch a demo of the project
+
 
 ## Table of Contents
 - Summary
