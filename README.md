@@ -30,9 +30,12 @@ This application is for retailer to sell their product online. Users can shop fo
 - View Catalogue
 - Add item to wishlist
 - Add item to cart
+- Product Image Maginifer 
 - Place order
 - View Order History
 - Recieve Order Confirmation Email if order is placed
+- Add Review
+- View Similar Products
 - Locate Stores based on location
 - Filter Items
 - Sort Items
@@ -47,5 +50,9 @@ This application is for retailer to sell their product online. Users can shop fo
 
 -Product Catalogue: 
 ![image](https://user-images.githubusercontent.com/70501653/113218012-a8540c80-9233-11eb-96b7-a7e6b3465c4b.png)
+
+-Product Details:
+
+![image](https://user-images.githubusercontent.com/70501653/113218223-0385ff00-9234-11eb-94db-6eb5cd597932.png)
 
 
