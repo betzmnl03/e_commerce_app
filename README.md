@@ -1,4 +1,4 @@
-# ** B/U - Online CLothing Store **
+#                                 B/U - Online CLothing Store 
 
 
 ## Table of Contents
