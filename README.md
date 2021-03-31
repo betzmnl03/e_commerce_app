@@ -27,7 +27,7 @@ This application is for retailer to sell their product online. Users can shop fo
 
 ## Features
 
-- View Catalog
+- View Catalogue
 - Add item to wishlist
 - Add item to cart
 - Place order
@@ -44,5 +44,8 @@ This application is for retailer to sell their product online. Users can shop fo
 
 ![image](https://user-images.githubusercontent.com/70501653/113217884-6a56e880-9233-11eb-9abe-a772a686bbbf.png)
 
+
+-Product Catalogue: 
+![image](https://user-images.githubusercontent.com/70501653/113218012-a8540c80-9233-11eb-96b7-a7e6b3465c4b.png)
 
 
