@@ -84,6 +84,15 @@ This application is for retailer to sell their product online. Users can shop fo
 
 
 
+## Installation:
+
+- git clone URL
+- cd into project
+- cd into bu_ecommerce_app (rails app)
+- Run rails s
+- cd into bu_ecommerce_app_react (React app)
+- Run npm i
+- On the browser run localhost:5500
 
 
 
