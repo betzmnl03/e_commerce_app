@@ -55,4 +55,36 @@ This application is for retailer to sell their product online. Users can shop fo
 
 ![image](https://user-images.githubusercontent.com/70501653/113218223-0385ff00-9234-11eb-94db-6eb5cd597932.png)
 
+-Product Image maginfier:
+![image](https://user-images.githubusercontent.com/70501653/113218399-5364c600-9234-11eb-89da-5af0aaf9a2c3.png)
+
+-Reviews Section:
+![image](https://user-images.githubusercontent.com/70501653/113218504-755e4880-9234-11eb-9893-f0c59a3829d6.png)
+
+-Similar Products Section:
+![image](https://user-images.githubusercontent.com/70501653/113218557-93c44400-9234-11eb-9dba-a74a58f542a0.png)
+
+-Wishlist:
+![image](https://user-images.githubusercontent.com/70501653/113218597-a9d20480-9234-11eb-9634-c762a63814ca.png)
+
+-Cart:
+![image](https://user-images.githubusercontent.com/70501653/113218657-c110f200-9234-11eb-9bb7-44522d2b7bce.png)
+
+-Shipping Details:
+![image](https://user-images.githubusercontent.com/70501653/113218719-da19a300-9234-11eb-9fdf-2f1ea4a4d49f.png)
+
+-Custom Checkout Form:
+![image](https://user-images.githubusercontent.com/70501653/113218757-ec93dc80-9234-11eb-8a2d-103adac8b9b7.png)
+
+-Order History:
+![image](https://user-images.githubusercontent.com/70501653/113218917-35e42c00-9235-11eb-9cd1-109bbbbd77b7.png)
+
+-Find My Store:
+![image](https://user-images.githubusercontent.com/70501653/113218972-54e2be00-9235-11eb-9792-e8af2ccf7a78.png)
+
+
+
+
+
+
 
